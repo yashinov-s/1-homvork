@@ -1,0 +1,42 @@
+.header {
+    background: rgb(19, 4, 53);
+}
+
+.headerr {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    padding-top: 10px;
+    align-items: center;
+    margin-top: -10px;
+}
+
+.header__list {
+    list-style-type: none;
+    display: flex;
+}
+
+.header__link {
+    font-family: "Inter";
+    width: 400;
+    font-size: 16;
+    line-height: 28px;
+    text-decoration: none;
+    color: white;
+}
+
+.header__link1 {
+    font-family: "Sen";
+    width: 700px;
+    font-size: 18px;
+    line-height: 24px;
+    color: black;
+    margin-left: 30px;
+    background-color: white;
+    padding: 16px 48px 16px 48px;
+    text-decoration: none;
+}
+
+.header__item {
+    margin-left: 32px;
+}

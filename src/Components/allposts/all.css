@@ -1,0 +1,87 @@
+.all {
+    margin-top: 130px;
+    display: flex;
+}
+
+.all__text {
+    font-family: "Sen";
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: Black;
+}
+
+.all__textp {
+    font-family: "Inter";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: Grey;
+}
+
+.all__textp2 {
+    font-family: "Sen";
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    color: black;
+    width: 702px;
+    margin: 0;
+}
+
+.all__textp3 {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    width: 551px;
+    margin-bottom: 70px;
+}
+
+.all__link {
+    font-family: "Sen";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: black;
+    background: rgb(252, 233, 24);
+    padding: 16px 48px 16px 48px;
+    text-decoration: none;
+}
+
+.all__texth {
+    font-family: "Sen";
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: black;
+}
+
+.all__list {
+    list-style-type: none;
+}
+
+.all__span {
+    font-family: "Inter";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: Purple;
+}
+
+.all__p {
+    font-family: "Inter";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: Grey;
+}
+
+.all__h {
+    font-family: "Sen";
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    width: 360px;
+    margin: 0;
+}
